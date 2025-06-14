@@ -1,2 +1,2 @@
-# Ola mundo
-primeiro repositório do curso do git gihup
+# Olá mundo!
+Primeiro repositório do curso do Git Gihup
